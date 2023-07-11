@@ -1,5 +1,5 @@
 
-# PRTOJECT APLIKASI KAMPUS
+# PROJECT APLIKASI KAMPUS
 
 Pada Aplikasi ini client terlebih dahulu login lalu client bisa menambahkan data pada database dan menghapus data, serta bisa mencetak data pada database
 
